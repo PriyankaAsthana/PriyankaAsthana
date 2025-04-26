@@ -4,10 +4,10 @@
 🎓 BTech CSE (Hons) | Coordinator @ CSI | Dreaming beyond boundaries  
 
 ## 🚀 Tech Stack  
-- **Frontend**: HTML, CSS, Bootstrap  
-- **Backend**: PHP, MySQL  
+- **Frontend**: React,Tailwind CSS, HTML, CSS, Bootstrap  
+- **Backend**: MySQL, ExpressJs, MongoDB, NodeJs  
 - **Programming**: Java (OOPs + DSA)  
-- **Tools**: Git, GitHub, VS Code
+- **Tools**: GitHub, VS Code
 
 ## 🔨 Projects  
 - **RAKT – Blood Bank System**  
