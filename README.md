@@ -4,8 +4,8 @@
 🎓 BTech CSE (Hons) | Coordinator @ CSI | Dreaming beyond boundaries  
 
 ## 🚀 Tech Stack  
-- **Frontend**: React,Tailwind CSS, HTML, CSS, Bootstrap  
-- **Backend**: MySQL, ExpressJs, MongoDB, NodeJs  
+- **Frontend**: React,Tailwind CSS,MongoDB, HTML, CSS  
+- **Backend**: MySQL, ExpressJs, MongoDB, NodeJs,ExpressJS 
 - **Programming**: Java (OOPs + DSA)  
 - **Tools**: GitHub, VS Code
 
