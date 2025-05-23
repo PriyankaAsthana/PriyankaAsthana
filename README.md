@@ -13,7 +13,7 @@
 
 ---
 
-🎓 <b>BTech CSE (Hons)</b> &nbsp;|&nbsp; <b>Coordinator @ CSI</b>  
+🎓 <b>BTech CSE (Hons)</b> &nbsp;|&nbsp; <b>Minor in Robotics</b>  
 🌱 <b>Currently Learning:</b> Spring Boot, Java Backend, Open Source Contributions  
 
 ---
