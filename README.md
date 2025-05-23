@@ -1,26 +1,58 @@
-# Hi, I'm Priyanka Asthana 👋  
-💻 Web Developer | ☕ Java + DSA Enthusiast | 🤖 Minor in Robotics  
 
-🎓 BTech CSE (Hons) | Coordinator @ CSI | Dreaming beyond boundaries  
+<!-- Profile README for Priyanka Asthana -->
 
-## 🚀 Tech Stack  
-- **Frontend**: React,Tailwind CSS,MongoDB, HTML, CSS  
-- **Backend**: MySQL, ExpressJs, MongoDB, NodeJs,ExpressJS 
-- **Programming**: Java (OOPs + DSA)  
-- **Tools**: GitHub, VS Code
+<h1 align="center">Hi, I'm Priyanka Asthana! 👋</h1>
+<p align="center">
+  <b>💻 Web Developer | ☕ Java + DSA Enthusiast | 🤖 Robotics Minor</b><br>
+  <i>Dreaming beyond boundaries 🚀</i>
+</p>
 
-## 🔨 Projects  
-- **RAKT – Blood Bank System**  
-  A complete web app for managing blood donors and recipients.
-- **AZALEA – Ecommerce Platform for Flowers**
-  An eccomerce website for flowers.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,nodejs,express,mongodb,mysql,java,github,vscode" alt="Tech Stack" />
+</p>
 
-- **DSA Practice Repo**  
-  My Java learning journal—organized & clean.
+---
 
-## 🌱 Currently Learning  
-Spring Boot, Java Backend, Open Source Contributions  
+🎓 <b>BTech CSE (Hons)</b> &nbsp;|&nbsp; <b>Coordinator @ CSI</b>  
+🌱 <b>Currently Learning:</b> Spring Boot, Java Backend, Open Source Contributions  
 
-## 📫 Reach Me  
-[LinkedIn](https://www.linkedin.com/in/priyanka-asthana-1b9a74250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
-[Email](pri45712rir@gmail.com)  
+---
+
+## 🚀 Tech Stack
+
+- **Frontend:** React, Tailwind CSS, HTML, CSS  
+- **Backend:** Node.js, Express.js, MySQL, MongoDB  
+- **Programming:** Java (OOPs, DSA)  
+- **Tools:** GitHub, VS Code
+
+---
+
+## 🔨 Featured Projects
+
+- **[RAKT – Blood Bank System](#)**  
+  <i>A full-stack web app for managing blood donors and recipients.</i>
+- **[AZALEA – Ecommerce Platform for Flowers](#)**  
+  <i>An ecommerce site for flower shopping and delivery.</i>
+- **[DSA Practice Repo](#)**  
+  <i>My Java learning journal—organized, clean, and growing.</i>
+
+---
+
+## 🤝 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/priyanka-asthana-1b9a74250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:pri45712rir@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyankaAsthana&show_icons=true&theme=tokyonight" alt="Priyanka's GitHub stats" /> <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaAsthana&theme=tokyonight" alt="GitHub Streak" />
+</p>
