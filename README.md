@@ -33,7 +33,7 @@
   <i>A full-stack web app for managing blood donors and recipients.</i>
 - **[AZALEA – Ecommerce Platform for Flowers](#)**  
   <i>An ecommerce site for flower shopping and delivery.</i>
-- **[DSA Practice Repo](#)**  
+- **[DSA Practice Repo](https://github.com/PriyankaAsthana/PriyankaDSAQuest)**  
   <i>My Java learning journal—organized, clean, and growing.</i>
 
 ---
