@@ -92,7 +92,7 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaAsthana&theme=tokyonight" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PriyankaAsthana&theme=tokyo-night&bg_color=282c34&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyankaAsthana&theme=tokyo-night&bg_color=282c34&hide_border=true" alt="GitHub Activity Graph" />
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=PriyankaAsthana&theme=dracula&row=1&column=7" alt="Trophy" />
 </p>
