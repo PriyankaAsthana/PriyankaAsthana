@@ -1,10 +1,9 @@
 <!-- Profile README for Priyanka Asthana -->
 
-<h1 align="center">Hi there, I'm Priyanka Asthana! 👋</h1>
+<h1 align="center">Hey there 👋, I'm <span style="color:#6C63FF;">Priyanka Asthana</span>!</h1>
 
 <p align="center">
-  <b>💻 Web Developer | ☕ Java + DSA Enthusiast | 🤖 Robotics Minor</b><br>
-  <i>Dreaming beyond boundaries, building with purpose 🚀</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Web+Developer+%7C+Java+%2B+DSA+Enthusiast;Robotics+Minor+%7C+Open+Source+Lover;Dreamer+%F0%9F%8C%9F+Builder+%F0%9F%9A%80+Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,38 +12,53 @@
 
 ---
 
-### 👩‍🎓 About Me
+## 👩‍💻 About Me
 
-- 🎓 BTech CSE (Hons) | Robotics Minor  
-- 🧠 Currently: Deep diving into **Java backend development**, **Spring Boot**, and **Open Source Contributions**  
-- 🔭 Coordinator @ **Computer Society of India (CSI)**  
-- 🌱 Always curious, always learning!
-
----
-
-### 🚀 Tech Stack
-
-- **Frontend:** React, Tailwind CSS, HTML5, CSS3  
-- **Backend:** Node.js, Express.js, MySQL, MongoDB  
-- **Programming Languages:** Java (OOP, DSA)  
-- **Tools & Platforms:** Git, GitHub, VS Code, Postman  
+- 🎓 **BTech CSE (Hons)** | <b>Robotics Minor</b>
+- 🧠 Diving deep into **Java Backend**, **Spring Boot**, & **Open Source**
+- 🛠️ Coordinator @ <b>Computer Society of India (CSI)</b>
+- ✨ <b>Curious</b> | <b>Collaborative</b> | <b>Creative</b>
+- 🌱 Forever learning & building with purpose
 
 ---
 
-### 🔨 Featured Projects
+## 🚀 Tech Stack
 
-- 🚑 **[RAKT – Blood Bank System](#)**  
-  <i>Full-stack application for managing blood donation, requests, and availability. Includes login, dashboards, and secure routing.</i>
-
-- 🌸 **[AZALEA – Flower Ecommerce](#)**  
-  <i>A responsive ecommerce platform built for seamless flower browsing and ordering with cart, checkout, and delivery modules.</i>
-
-- 📘 **[Java DSA Practice Repository](#)**  
-  <i>Structured notes and Java code implementations of common DSA problems. Updated regularly.</i>
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>React, Tailwind CSS, HTML5, CSS3, JavaScript</td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>Node.js, Express.js, MySQL, MongoDB</td>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>Java (OOP, DSA)</td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>Git, GitHub, VS Code, Postman</td>
+  </tr>
+</table>
 
 ---
 
-### 🤝 Let's Connect!
+## 🌟 Featured Projects
+
+- 🚑 <b>[RAKT – Blood Bank System](#)</b>  
+  <i>Full-stack app managing blood donation, requests, and availability. Includes user dashboards & secure routing.</i>
+
+- 🌸 <b>[AZALEA – Flower Ecommerce](#)</b>  
+  <i>Responsive e-commerce platform for seamless flower shopping, with cart, checkout, and delivery modules.</i>
+
+- 📘 <b>[Java DSA Practice Repository](#)</b>  
+  <i>Organized notes and Java solutions to classic DSA problems. Updated regularly.</i>
+
+---
+
+## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/priyanka-asthana-1b9a74250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
@@ -58,11 +72,18 @@
 
 ---
 
-### 📊 GitHub Insights
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyankaAsthana&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyankaAsthana&show_icons=true&theme=tokyonight&hide_title=true" alt="Priyanka's GitHub Stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaAsthana&theme=tokyonight" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PriyankaAsthana&theme=tokyo-night&bg_color=282c34&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
+---
+
+<p align="center">
+  <i>“Dream beyond boundaries, build with purpose.”</i> 🚀
+</p>
