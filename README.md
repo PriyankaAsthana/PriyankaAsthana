@@ -1,7 +1,7 @@
 <!-- Profile README for Priyanka Asthana -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Priyanka+Asthana!;Java+%7C+Web+Dev+%7C+Robotics+Enthusiast;Building+and+learning+every+day+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Priyanka+Asthana!;Java+Backend+Enthusiast+%7C+Spring+Boot+Dev;Building+Tech+With+Heart+%E2%9D%A4%EF%B8%8F;">
 </h1>
 
 <p align="center">
@@ -25,10 +25,9 @@
 - 🧠 Passionate about **Java Backend**, **Spring Boot**, & **Open Source**
 - 🤖 Exploring the crossroads of code and hardware
 - 🛠️ Coordinator @ <b>Computer Society of India (CSI)</b>
-- 🌱 Forever learning & building with purpose
-- ✨ <b>Curious</b> | <b>Collaborative</b> | <b>Creative</b>
-- 💬 Ask me about Java, DSA, or building cool web apps!
-- 🚀 Dreaming beyond boundaries, building with heart.
+- 🌱 Lifelong learner, driven by curiosity & creativity
+- 💬 Talk to me about Java, DSA, or full-stack web apps!
+- 🚀 Dreaming beyond boundaries, building with heart
 
 ---
 
@@ -39,7 +38,7 @@
 </p>
 
 <div align="center">
-  
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -56,17 +55,17 @@
 ## 🌟 Featured Projects
 
 - 🚑 <b>[RAKT – Blood Bank System](#)</b>  
-  <i>Full-stack app managing blood donation, requests, and availability. Includes user dashboards & secure routing.</i>
+  <i>Full-stack app for managing blood donation, requests, and availability. User dashboards & secure routing built in.</i>
 
 - 🌸 <b>[AZALEA – Flower Ecommerce](#)</b>  
-  <i>Responsive e-commerce platform for seamless flower shopping, with cart, checkout, and delivery modules.</i>
+  <i>Modern, responsive shopping platform for flowers. Cart, checkout, and delivery modules for a seamless experience.</i>
 
 - 📘 <b>[Java DSA Practice Repository](#)</b>  
-  <i>Organized notes and Java solutions to classic DSA problems. Updated regularly.</i>
+  <i>My organized Java notes and classic DSA solutions. Updated regularly for fellow learners.</i>
 
 ---
 
-## 📈 GitHub Stats & Contribution
+## 📈 GitHub Stats & Contributions
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PriyankaAsthana&show_icons=true&theme=tokyonight&hide_title=true" alt="Priyanka's GitHub Stats" />
@@ -82,9 +81,9 @@
 
 ## ✨ Fun Facts
 
-- 🦾 I love robotics and tinkering with hardware just as much as I love software!
-- 🎨 I enjoy painting and digital art when I'm not coding.
-- 🌏 Always up for a hackathon or a coding jam session.
+- 🦾 I’m as excited about robotics and hardware as I am about software!
+- 🎨 I paint and create digital art when I need a creative recharge.
+- 🌏 Always up for hackathons, code jams, and new adventures.
 
 ---
 
@@ -103,7 +102,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" alt="Rocket Launch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="80" alt="Java Logo"/>
 </p>
 
 <p align="center">
