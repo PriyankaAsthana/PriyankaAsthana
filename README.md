@@ -1,71 +1,91 @@
 <!-- Profile README for Priyanka Asthana -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Priyanka+Asthana!;Java+Backend+Enthusiast+%7C+Spring+Boot+Dev;Building+Tech+With+Heart+%E2%9D%A4%EF%B8%8F;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2300&pause=800&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Priyanka+Asthana!;Java+Backend+Dev+%7C+Robotics+Enthusiast;Building+%F0%9F%9A%80+with+Code+and+Heart" alt="Typing SVG"/>
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coder Girl Animated"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coder Girl Animated"/>
 </p>
-
----
 
 <p align="center">
   <a href="https://github.com/PriyankaAsthana?tab=followers">
     <img src="https://img.shields.io/github/followers/PriyankaAsthana?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=PriyankaAsthana&label=Profile+Views&color=6C63FF&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Java-Backend-blueviolet?logo=java&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Passion-6C63FF?logo=github"/>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🌟 About Me
 
-- 🎓 **BTech CSE (Hons)** | <b>Robotics Minor</b>
-- 🧠 Passionate about **Java Backend**, **Spring Boot**, & **Open Source**
-- 🤖 Exploring the crossroads of code and hardware
-- 🛠️ Coordinator @ <b>Computer Society of India (CSI)</b>
-- 🌱 Lifelong learner, driven by curiosity & creativity
-- 💬 Talk to me about Java, DSA, or full-stack web apps!
-- 🚀 Dreaming beyond boundaries, building with heart
+> 👋 Hi! I’m Priyanka, a **Java backend developer** with a penchant for robotics, full-stack solutions, and community building.  
+> I love connecting code, creativity, and curiosity to solve real-world problems.  
+> Currently, I’m a BTech CSE (Hons) undergrad with a minor in Robotics,  
+> and I thrive at the intersection of software & hardware.
 
 ---
 
-## 🚀 Tech Stack & Tools
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🔑 Quick Facts
+
+- 🧑‍💻 <b>BTech CSE (Hons)</b> • <b>Robotics Minor</b>
+- 🏅 Coordinator @ <b>Computer Society of India (CSI)</b>
+- 💡 Open Source & Hackathon Enthusiast
+- 💬 Ask me about <b>Java</b>, <b>DSA</b>, or <b>full-stack web apps</b>
+- 🌱 Always learning, always building!
+
+</td>
+<td valign="top">
+
+### 🚀 Currently
+
+- 📚 Sharpening my Spring Boot & cloud skills
+- 🤖 Building at the crossroads of code & hardware
+- 🤝 Collaborating on open source
+- ✨ Seeking new challenges & connections!
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,tailwind,html,css,js,nodejs,express,mongodb,mysql,github,git,vscode,postman" alt="Tech Stack Icons"/>
 </p>
 
-<div align="center">
+<details>
+<summary><b>Click to expand for details</b></summary>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node-dot-js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+| Language | Backend     | Frontend   | Database    | Tools        |
+|:---------|:------------|:-----------|:------------|:-------------|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) | ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node-dot-js&logoColor=white) | ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |  | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
-</div>
+</details>
 
 ---
 
-## 🌟 Featured Projects
+## 🎯 Featured Projects
 
-- 🚑 <b>[RAKT – Blood Bank System](#)</b>  
-  <i>Full-stack app for managing blood donation, requests, and availability. User dashboards & secure routing built in.</i>
-
-- 🌸 <b>[AZALEA – Flower Ecommerce](#)</b>  
-  <i>Modern, responsive shopping platform for flowers. Cart, checkout, and delivery modules for a seamless experience.</i>
-
-- 📘 <b>[Java DSA Practice Repository](#)</b>  
-  <i>My organized Java notes and classic DSA solutions. Updated regularly for fellow learners.</i>
+| Project | Description | Tech Used |
+|---------|-------------|-----------|
+| [🚑 RAKT – Blood Bank System](#) | Full-stack app for managing blood donation, requests, and availability. Secure routing & dashboards. | Java, Spring Boot, React, MongoDB |
+| [🌸 AZALEA – Flower Ecommerce](#) | Modern, responsive e-commerce platform for flowers. Cart, checkout, delivery modules. | Node.js, React, MongoDB, Tailwind CSS |
+| [📘 Java DSA Practice Repository](#) | Well-organized Java notes & classic DSA solutions. Updated for learners. | Java |
 
 ---
 
-## 📈 GitHub Stats & Contributions
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PriyankaAsthana&show_icons=true&theme=tokyonight&hide_title=true" alt="Priyanka's GitHub Stats" />
@@ -81,9 +101,9 @@
 
 ## ✨ Fun Facts
 
-- 🦾 I’m as excited about robotics and hardware as I am about software!
-- 🎨 I paint and create digital art when I need a creative recharge.
-- 🌏 Always up for hackathons, code jams, and new adventures.
+- 🤖 Equally passionate about **robotics** and **software dev**
+- 🎨 I paint and make digital art—creativity fuels my code!
+- 🌏 Always up for hackathons, code jams, and new adventures
 
 ---
 
