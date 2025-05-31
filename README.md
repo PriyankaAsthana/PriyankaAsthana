@@ -1,7 +1,7 @@
 <!-- Profile README for Priyanka Asthana -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2300&pause=800&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Priyanka+Asthana!;DSA+Web+Dev+%7C+Robotics+Enthusiast;Building+%F0%9F%9A%80+with+Code+and+Heart" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2300&pause=800&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Priyanka+Asthana!;DSA+%7C+Web+Dev+%7C+Robotics+Enthusiast;Building+%F0%9F%9A%80+with+Code+and+Heart" alt="Typing SVG"/>
 </h1>
 
 <p align="center">
