@@ -45,8 +45,8 @@
 
 ### 🚀 Currently
 
-- 📚 Sharpening my Spring Boot & cloud skills
-- 🤖 Building at the crossroads of code & hardware
+- 📚 Sharpening my GenAI & cloud skills
+- 🤖 Building at the crossroads of code & algos
 - 🤝 Collaborating on open source
 - ✨ Seeking new challenges & connections!
 
