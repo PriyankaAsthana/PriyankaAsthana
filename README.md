@@ -21,7 +21,7 @@
 
 ## 🌟 About Me
 
-> 👋 Hi! I’m Priyanka, a **Java backend developer** with a penchant for robotics, full-stack solutions, and community building.  
+> 👋 Hi! I’m Priyanka, a **Java and Web developer** with a penchant for robotics, full-stack solutions, and community building.  
 > I love connecting code, creativity, and curiosity to solve real-world problems.  
 > Currently, I’m a BTech CSE (Hons) undergrad with a minor in Robotics,  
 > and I thrive at the intersection of software & hardware.
@@ -36,7 +36,7 @@
 
 - 🧑‍💻 <b>BTech CSE (Hons)</b> • <b>Robotics Minor</b>
 - 🏅 Coordinator @ <b>Computer Society of India (CSI)</b>
-- 💡 Open Source & Hackathon Enthusiast
+- 💡 DSA Enthusiast
 - 💬 Ask me about <b>Java</b>, <b>DSA</b>, or <b>full-stack web apps</b>
 - 🌱 Always learning, always building!
 
@@ -75,7 +75,7 @@
 
 ---
 
-## 🎯 Featured Projects
+## 🎯 Featured Projects & Top Repos
 
 | Project | Description | Tech Used |
 |---------|-------------|-----------|
