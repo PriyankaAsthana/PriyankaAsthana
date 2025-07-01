@@ -80,7 +80,7 @@
  | Project | Description | Tech Used |
  |---------|-------------|-----------|
  | [🚑 RAKT – Blood Bank System](#) | Full-stack app for managing blood donation, requests, and availability. Secure routing & dashboards. | Java, Spring Boot, React, MongoDB |
- | [🌸 AZALEA – Flower Ecommerce](#) | Modern, responsive e-commerce platform for flowers. Cart, checkout, delivery modules. | Node.js, React, MongoDB, Tailwind CSS |
+ | [🍸 Velvet Pour](#) | Modern, responsive e-commerce platform for flowers. Cart, checkout, delivery modules. | Node.js, React, MongoDB, Tailwind CSS |
  | [📘 Java DSA Practice Repository](#) | Well-organized Java notes & classic DSA solutions. Updated for learners. | Java |
  
  ---
