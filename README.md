@@ -80,7 +80,7 @@
  | Project | Description | Tech Used |
  |---------|-------------|-----------|
  | [🚑 RAKT – Blood Bank System](#) | Full-stack app for managing blood donation, requests, and availability. Secure routing & dashboards. | Java, Spring Boot, React, MongoDB |
- | [🍸 Velvet Pour](#) | Modern, responsive Frontend site for drinks. | React, Tailwind CSS, GSAP |
+ | [🍸 Velvet Pour](https://github.com/PriyankaAsthana/Mojito-cocktails) | Modern, responsive Frontend site for drinks. | React, Tailwind CSS, GSAP |
  | [📘 Java DSA Practice Repository](#) | Well-organized Java notes & classic DSA solutions. Updated for learners. | Java |
  
  ---
