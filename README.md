@@ -5,7 +5,7 @@
  </h1>  
  
  <p align="center">
-   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coder Girl Animated"/>
+   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coder Girl Animated"/> 
  </p>
  
  <p align="center">
