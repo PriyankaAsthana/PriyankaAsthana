@@ -1,228 +1,165 @@
-```
-╔══════════════════════════════════════════════════════════════╗
-║         why did the model fail? let me find out.            ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<div align="center">
 
-# hey, I'm Priyanka 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Priyanka%20Asthana&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=NLP%20Researcher%20%7C%20AI%20Systems%20Builder%20%7C%20Failure%20Analyst&descAlignY=52&descSize=16"/>
 
-I build AI systems. Then I break them. Then I figure out *why* they broke — and that's the part I care about most.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=why+did+the+model+fail%3F;let+me+find+out.;building+NLP+systems+that+don't+lie.;constrained+reasoning+%E2%86%92+reliable+AI." alt="Typing SVG" />
 
-Final-year BTech CSE (Hons.) @ AKTU | Minor: Robotics | CGPA: 9.01  
-Currently: somewhere between "the model works" and "but does it *actually* work?"
+<br/>
 
----
+[![](https://img.shields.io/badge/BTech_CSE_(Hons.)-AKTU-7C3AED?style=for-the-badge&logo=academia&logoColor=white)](https://www.aktu.ac.in/)
+[![](https://img.shields.io/badge/CGPA-9.01%2F10-4ADE80?style=for-the-badge&logo=academia&logoColor=white)]()
+[![](https://img.shields.io/badge/Minor-Robotics-F472B6?style=for-the-badge&logo=probot&logoColor=white)]()
+[![](https://img.shields.io/badge/Patent-Published_Mar_2026-F59E0B?style=for-the-badge&logo=google-scholar&logoColor=white)]()
 
-## the thing that changed everything
-
-I built **DiagnoseAI** — a voice-based symptom checker using constrained LLMs. During testing, it produced an output that was *structurally perfect* and *clinically wrong*. I had no explanation.
-
-That one failure changed how I think about every system I build.  
-I stopped asking *"does it work?"* and started asking *"why does it fail?"*
-
-Every project since has been an answer to that question.
+</div>
 
 ---
 
-## what I'm building
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=PriyankaAsthana&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=F472B6&text_color=E2E8F0&ring_color=7C3AED" width="420"/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🩸 [RAKT](https://github.com/PriyankaAsthana/RAKT_Blood_Bank_Management)
-**Spatial-Temporal GeoAI · Blood Allocation**
-
-Blood banks have a race condition problem. When a unit is in transit, nothing stops it from being reallocated to another patient simultaneously. I found this failure, built a token reservation mechanism to fix it, and validated it in simulation.
-
-`Python` `GeoAI` `Priority Clustering` `Token Reservation`
-
-📄 Under review @ Springer Nature  
-🔗 [Preprint on Zenodo](https://doi.org/10.5281/zenodo.18149564)
-
-</td>
-<td width="50%" valign="top">
-
-### 🗣️ [DiagnoseAI](https://diagnoseai-ai-medical-system.onrender.com/)
-**Voice-First · Constrained LLM · Medical NLP**
-
-Speech → semantic parsing → constrained LLM → structured clinical report. The constraint layer is the interesting part — it's what stops the model from hallucinating its way into a dangerous recommendation.
-
-`Python` `NLP Pipelines` `LLM Reasoning` `Speech-to-Text`
-
-🏛️ **Indian Patent No. 202611012869** · Published March 2026  
-✅ 92% accuracy · 500+ patient scenarios
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏛️ [KashiVani](https://kashivani.onrender.com/)
-**Multi-Agent · RAG · Hallucination Reduction**
-
-A knowledge retrieval system for Varanasi's cultural heritage. Standard RAG wasn't enough — the hallucination rate was too high. I had to go deeper into *where* similarity measures break down semantically before the 40% reduction was possible.
-
-`RAG` `Multi-Agent NLP` `LangChain` `Vector Search`
-
-🥇 1st Place · Abhyuday'26 State-Level Techno-Cultural Fest
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 [DSA Quest](https://github.com/PriyankaAsthana/PriyankaDSAQuest)
-**Java · Algorithms · Clean Notes**
-
-My running repository of DSA solutions and notes in Java. Not glamorous. But graph algorithms and complexity analysis show up in research more than people admit.
-
-`Java` `Algorithms` `Data Structures`
-
-</td>
-</tr>
-</table>
-
----
-
-## what I'm actually good at
+### `> whoami`
 
 ```python
-skills = {
-    "research_focus"  : ["hallucination mitigation", "constrained LLM reasoning",
-                          "retrieval-augmented generation", "NLP reliability"],
-    "ml_stack"        : ["PyTorch", "TensorFlow", "Scikit-learn", "LangChain"],
-    "languages"       : ["Python", "Java", "JavaScript"],
-    "tools"           : ["Pandas", "NumPy", "OpenCV", "Git"],
-    "currently_reading": ["optimal transport for NLP", "geometric ML", 
-                           "trustworthy AI systems"]
+researcher = {
+    "name"      : "Priyanka Asthana",
+    "location"  : "Varanasi, India 🇮🇳",
+    "focus"     : "Why language models fail in high-stakes environments",
+    "approach"  : "Build → Break → Understand → Fix",
+    "goal"      : "PhD in NLP / Trustworthy AI",
+    "status"    : "final year undergrad, already doing the research anyway"
 }
 ```
 
+<br clear="right"/>
+
 ---
 
-## where I've been
+## `> ls ~/research`
+
+<div align="center">
+
+| Project | What it actually does | The interesting part | Stack |
+|:--------|:----------------------|:---------------------|:------|
+| 🩸 **[RAKT](https://github.com/PriyankaAsthana/RAKT_Blood_Bank_Management)** | Spatial-temporal blood allocation for emergency systems | Found a race condition in existing blood banks — units in transit could be reallocated simultaneously. Built a time-bound token reservation to fix it. | `Python` `GeoAI` `Priority Clustering` |
+| 🗣️ **[DiagnoseAI](https://diagnoseai-ai-medical-system.onrender.com/)** | Voice-first constrained LLM for medical symptom assessment | Produced a *structurally valid, clinically wrong* output I couldn't explain. That failure became my research direction. | `NLP Pipelines` `Constrained LLM` `Speech-to-Text` |
+| 🏛️ **[KashiVani](https://kashivani.onrender.com/)** | Multi-agent RAG for cultural knowledge retrieval | 40% hallucination reduction — but only after finding exactly where similarity measures fail semantically. | `RAG` `Multi-Agent` `LangChain` |
+
+</div>
+
+---
+
+## `> cat research_output.log`
+
+<div align="center">
 
 ```
-Feb 2026 → now   NLP Engineer Intern · IIT BHU
-                 fixed 20+ parsing failures in real-time NLP systems
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│  📄  PAPER    Priority-Weighted Spatial Framework for Emergency     │
+│               Blood Allocation                                      │
+│               → Under review @ Springer Nature                     │
+│               → Preprint: doi.org/10.5281/zenodo.18149564          │
+│                                                                     │
+│  🏛️  PATENT   AI-Driven Conversational Medical Voice Assistant      │
+│               → Indian Patent No. 202611012869                     │
+│               → Published: March 20, 2026                          │
+│                                                                     │
+│  🥇  AWARD    1st Place · Project Presentation                     │
+│               → Abhyuday'26 State-Level Techno-Cultural Fest       │
+│               → KashiVani (NLP System)                             │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
-Dec 2025 → Jan 2026   AI Research Intern · ISRO (Bharat Space Education Research Centre)
-                       ML for UAS control · real-time sensor data fusion
+</div>
 
-Jul 2025 → Aug 2025   IT Intern · Hindalco Industries (Aditya Birla Group)
-                       ERP pipeline automation · analytical dashboards
+---
+
+## `> cat skills.json`
+
+<div align="center">
+
+```json
+{
+  "research"    : ["hallucination mitigation", "constrained LLM reasoning",
+                   "retrieval-augmented generation", "NLP reliability",
+                   "spatial-temporal decision systems"],
+
+  "ml_stack"    : ["PyTorch", "TensorFlow", "Scikit-learn",
+                   "LangChain", "RAG frameworks"],
+
+  "languages"   : ["Python", "Java", "JavaScript"],
+
+  "tools"       : ["Pandas", "NumPy", "OpenCV", "Git"],
+
+  "reading_now" : ["Peyré & Cuturi — Computational Optimal Transport",
+                   "geometric ML for NLP",
+                   "trustworthy AI systems literature"]
+}
+```
+
+</div>
+
+---
+
+## `> history | grep internship`
+
+```bash
+Feb 2026 – Mar 2026  $ work --at="IIT BHU" --role="NLP Engineer Intern"
+                       → resolved 20+ parsing failures in real-time NLP systems
+                       → processed 1000+ text inputs for semantic accuracy testing
+
+Dec 2025 – Jan 2026  $ work --at="ISRO (BSERC)" --role="AI Research Intern"
+                       → ML for UAS control algorithms across 5 experimental modules
+                       → real-time sensor data fusion, 15% trajectory accuracy gain
+
+Jul 2025 – Aug 2025  $ work --at="Hindalco Industries (Aditya Birla)" --role="IT Intern"
+                       → ERP data pipeline automation
+                       → analytical dashboards, 10% API performance improvement
 ```
 
 ---
 
-## output so far
+## `> github stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaAsthana&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0&langs_count=6" width="380"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaAsthana&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=F472B6&currStreakLabel=A78BFA" width="420"/>
+
+</div>
+
+---
+
+## `> cat next_steps.txt`
 
 ```
-📄  1 paper under review  ──  Springer Nature, Journal of Computational Social Science
-🔬  1 preprint            ──  doi.org/10.5281/zenodo.18149564
-🏛️  1 patent published    ──  Indian Patent No. 202611012869 (March 2026)
-🥇  1 competition win     ──  Abhyuday'26, State Level, 1st Place
+The question I keep coming back to:
+
+  Why do language models fail in constrained, high-stakes environments?
+  Not the engineering answer. The theoretical one.
+
+  Optimal transport. Geometric ML. Representation geometry.
+  That's where I'm headed.
+
+  PhD → NLP / Trustworthy AI → build systems that don't just work,
+  but that we can actually understand.
 ```
 
 ---
 
-## what's next
+<div align="center">
 
-PhD in NLP or trustworthy AI.  
-Specifically: why do language models fail in constrained, high-stakes environments — and what does it take to fix that at a theoretical level, not just an engineering one.
+### `> ./connect.sh`
 
----
+[![Gmail](https://img.shields.io/badge/asthanapriyanka829@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asthanapriyanka829@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-asthana-1b9a74250)
+[![Portfolio](https://img.shields.io/badge/Portfolio-DiagnoseAI-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://diagnoseai-ai-medical-system.onrender.com/)
+[![Patent](https://img.shields.io/badge/Patent_202611012869-F59E0B?style=for-the-badge&logo=google-scholar&logoColor=white)](https://iprsearch.ipindia.gov.in/)
 
-<sub>
-📬 asthanapriyanka829@gmail.com &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/priyanka-asthana-1b9a74250">LinkedIn</a> &nbsp;·&nbsp;
-<a href="https://diagnoseai-ai-medical-system.onrender.com/">Portfolio</a>
-</sub>
+<br/>
 
-**NLP researcher in progress.** Final-year BTech (Hons.) CSE student at Ashoka Institute of Technology and Management, Varanasi (AKTU) | Minor: Robotics | CGPA: 9.01/10
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
-I build AI systems for healthcare and study why they fail. My work sits at the intersection of constrained LLM reasoning, retrieval-augmented generation, and real-world deployment — specifically how language models break in high-stakes environments and what it takes to make them reliable.
-
----
-
-## Research Interests
-
-- Hallucination detection and mitigation in large language models
-- Retrieval-Augmented Generation (RAG) for knowledge-grounded systems
-- Constrained reasoning in NLP pipelines
-- AI reliability and trustworthiness in healthcare applications
-- Spatial-temporal decision systems
-
----
-
-## Projects
-
-### [DiagnoseAI — Voice-Based Medical Symptom Assessment](https://diagnoseai-ai-medical-system.onrender.com/)
-A voice-first NLP system integrating speech-to-text, semantic parsing, and a constrained LLM pipeline for real-time symptom assessment. Tested on 500+ patient scenarios with 92% accuracy. The system's failure — a structurally valid but clinically incorrect output — redirected my entire research focus toward understanding *why* language models fail.
-
-**→ Indian Patent No. 202611012869, published March 2026**
-
----
-
-### [RAKT — Spatial-Temporal GeoAI Blood Allocation Framework](https://github.com/PriyankaAsthana/RAKT_Blood_Bank_Management)
-Designed a priority-weighted spatial-temporal decision model for emergency blood allocation. The core contribution is a time-bound token reservation mechanism that prevents concurrent reallocation of blood units in transit — a failure mode I identified in existing systems independently. Achieved 100% high-priority allocation and 6.6% distance reduction in scarcity simulations.
-
-**→ Manuscript under review at Springer Nature (Journal of Computational Social Science)**  
-**→ Preprint: [doi.org/10.5281/zenodo.18149564](https://doi.org/10.5281/zenodo.18149564)**
-
----
-
-### [KashiVani — Multi-Agent RAG System for Cultural Knowledge](https://kashivani.onrender.com/)
-A multi-agent NLP system for culturally grounded knowledge generation about Varanasi's heritage. Built a custom RAG pipeline that reduced hallucinations by 40% compared to baseline — achieved only after identifying the exact points where standard similarity measures failed to capture semantic accuracy.
-
-**→ 1st Place, Project Presentation — Abhyuday'26 State-Level Techno-Cultural Fest**
-
----
-
-## Publications & Patents
-
-| Type | Title | Status |
-|------|-------|--------|
-| Journal Paper | Priority-Weighted Spatial Framework for Emergency Blood Allocation | Under review, Springer Nature |
-| Preprint | Same | [Zenodo, 2026](https://doi.org/10.5281/zenodo.18149564) |
-| Patent | AI-Driven Conversational Medical Voice Assistant | Published, March 2026 (No. 202611012869) |
-
----
-
-## Experience
-
-**AI Intern (NLP Engineer) — IIT BHU** *(Feb 2026 – Mar 2026)*  
-NLP-driven test automation; resolved 20+ parsing failures in real-time systems.
-
-**AI Research Intern — Bharat Space Education Research Centre (ISRO)** *(Dec 2025 – Jan 2026)*  
-AI-driven control algorithms for UAS; ML applied to real-time sensor data fusion.
-
-**IT Intern — Hindalco Industries, Aditya Birla Group** *(Jul 2025 – Aug 2025)*  
-Analytical dashboards and ERP data pipeline automation.
-
----
-
-## Technical Skills
-
-**AI/ML:** PyTorch, TensorFlow, Scikit-learn, LangChain, RAG frameworks, constrained LLM reasoning  
-**NLP:** Text processing pipelines, semantic parsing, hallucination mitigation, multi-agent systems  
-**Programming:** Python, Java, JavaScript  
-**Tools:** Pandas, NumPy, OpenCV, Git
-
----
-
-## Certifications
-
-- Microsoft Azure AI-102 — Designing and Implementing AI Solutions
-- Microsoft Azure AI-900 — AI Fundamentals
-- Oracle AI Vector Search Professional (2025)
-- McKinsey Forward Program (2025)
-
----
-
-## Contact
-
-[asthanapriyanka829@gmail.com](mailto:asthanapriyanka829@gmail.com) · [LinkedIn](https://www.linkedin.com/in/priyanka-asthana-1b9a74250) · [Portfolio](https://diagnoseai-ai-medical-system.onrender.com/)
-
----
-
-*Long-term goal: PhD in NLP / trustworthy AI.*
+</div>
