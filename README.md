@@ -1,130 +1,228 @@
- <!-- Profile README for Priyanka Asthana -->  
-    
- <h1 align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2300&pause=800&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Priyanka+Asthana!;DSA+%7C+Web+Dev+%7C+Robotics+Enthusiast;Building+%F0%9F%9A%80+with+Code+and+Heart" alt="Typing SVG"/>
- </h1>  
-  
- <p align="center">
-   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coder Girl Animated"/> 
- </p>
-  
- <p align="center">
-   <a href="https://github.com/PriyankaAsthana?tab=followers">
-     <img src="https://img.shields.io/github/followers/PriyankaAsthana?label=Followers&style=social" alt="GitHub Followers"/>
-   </a>
-   <img src="https://komarev.com/ghpvc/?username=PriyankaAsthana&label=Profile+Views&color=6C63FF&style=flat" alt="Profile Views"/>
-   <img src="https://img.shields.io/badge/Java-Backend-blueviolet?logo=java&logoColor=white&style=flat"/>
-   <img src="https://img.shields.io/badge/Open%20Source-Passion-6C63FF?logo=github"/>
- </p>
- 
- ---
- 
- ## 🌟 About Me
- 
- > 👋 Hi! I’m Priyanka, a **Java and Web developer** with a penchant for robotics, full-stack solutions, and community building.  
- > I love connecting code, creativity, and curiosity to solve real-world problems.  
- > Currently, I’m a BTech CSE (Hons) undergrad with a minor in Robotics,  
- > and I thrive at the intersection of software & hardware.
- 
- ---
- 
- <table>
- <tr>
- <td valign="top" width="50%">
- 
- ### 🔑 Quick Facts
- 
- - 🧑‍💻 <b>BTech CSE (Hons)</b> • <b>Robotics Minor</b>
- - 🏅 Coordinator @ <b>Computer Society of India (CSI)</b>
- - 💡 DSA Enthusiast
- - 💬 Ask me about <b>Java</b>, <b>DSA</b>, or <b>full-stack web apps</b>
- - 🌱 Always learning, always building!
- 
- </td>
- <td valign="top">
- 
- ### 🚀 Currently
- 
- - 📚 Sharpening my GenAI & cloud skills
- - 🤖 Building at the crossroads of code & algos
- - 🤝 Collaborating on open source
- - ✨ Seeking new challenges & connections!
- 
- </td>
- </tr>
- </table>
- 
- ---
- 
- ## 🛠️ Tech Stack
- 
- <p align="center">
-   <img src="https://skillicons.dev/icons?i=java,spring,react,tailwind,html,css,js,nodejs,express,mongodb,mysql,github,git,vscode,postman" alt="Tech Stack Icons"/>
- </p>
- 
- <details>
- <summary><b>Click to expand for details</b></summary>
- 
- | Language | Backend     | Frontend   | Database    | Tools        |
- |:---------|:------------|:-----------|:------------|:-------------|
- | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) | ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
- | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node-dot-js&logoColor=white) | ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
- | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |  | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
- 
- </details>
- 
- ---
- 
- ## 🎯 Featured Projects & Top Repos
- 
- | Project | Description | Tech Used |
- |---------|-------------|-----------|
- | [🚑 RAKT – Blood Bank System](#) | Full-stack app for managing blood donation, requests, and availability. Secure routing & dashboards. | Java, Spring Boot, React, MongoDB |
- | [🍸 Velvet Pour](https://github.com/PriyankaAsthana/Mojito-cocktails) | Modern, responsive Frontend site for drinks. | React, Tailwind CSS, GSAP |
- | [📘 Java DSA Practice Repository](https://github.com/PriyankaAsthana/PriyankaDSAQuest) | Well-organized Java notes & classic DSA solutions. Updated for learners. | Java |
- 
- ---
- 
- ## 📊 GitHub Stats
- 
- <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=PriyankaAsthana&show_icons=true&theme=tokyonight&hide_title=true" alt="Priyanka's GitHub Stats" />
-   <br>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaAsthana&theme=tokyonight" alt="GitHub Streak" />
-   <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyankaAsthana&theme=tokyo-night&bg_color=282c34&hide_border=true" alt="GitHub Activity Graph" />
-   <br>
-   <img src="https://github-profile-trophy.vercel.app/?username=PriyankaAsthana&theme=dracula&row=1&column=7" alt="Trophy" />
- </p>
- 
- ---
- 
- ## ✨ Fun Facts
- 
- - 🤖 Equally passionate about **robotics** and **software dev**
- - 🎨 I paint and make digital art—creativity fuels my code!
- - 🌏 Always up for hackathons, code jams, and new adventures
- 
- ---
- 
- ## 🤝 Connect With Me
- 
- <p align="center">
-   <a href="https://www.linkedin.com/in/priyanka-asthana-1b9a74250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
-   </a>
-   &nbsp;
-   <a href="mailto:pri45712rir@gmail.com">
-     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Gmail" />
-   </a>
- </p>
- 
- ---
- 
- <p align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="80" alt="Java Logo"/>
- </p>
- 
- <p align="center">
-   <b><i>“Dream beyond boundaries, build with purpose.” 🚀</i></b>
- </p>
+```
+╔══════════════════════════════════════════════════════════════╗
+║         why did the model fail? let me find out.            ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+# hey, I'm Priyanka 👋
+
+I build AI systems. Then I break them. Then I figure out *why* they broke — and that's the part I care about most.
+
+Final-year BTech CSE (Hons.) @ AKTU | Minor: Robotics | CGPA: 9.01  
+Currently: somewhere between "the model works" and "but does it *actually* work?"
+
+---
+
+## the thing that changed everything
+
+I built **DiagnoseAI** — a voice-based symptom checker using constrained LLMs. During testing, it produced an output that was *structurally perfect* and *clinically wrong*. I had no explanation.
+
+That one failure changed how I think about every system I build.  
+I stopped asking *"does it work?"* and started asking *"why does it fail?"*
+
+Every project since has been an answer to that question.
+
+---
+
+## what I'm building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🩸 [RAKT](https://github.com/PriyankaAsthana/RAKT_Blood_Bank_Management)
+**Spatial-Temporal GeoAI · Blood Allocation**
+
+Blood banks have a race condition problem. When a unit is in transit, nothing stops it from being reallocated to another patient simultaneously. I found this failure, built a token reservation mechanism to fix it, and validated it in simulation.
+
+`Python` `GeoAI` `Priority Clustering` `Token Reservation`
+
+📄 Under review @ Springer Nature  
+🔗 [Preprint on Zenodo](https://doi.org/10.5281/zenodo.18149564)
+
+</td>
+<td width="50%" valign="top">
+
+### 🗣️ [DiagnoseAI](https://diagnoseai-ai-medical-system.onrender.com/)
+**Voice-First · Constrained LLM · Medical NLP**
+
+Speech → semantic parsing → constrained LLM → structured clinical report. The constraint layer is the interesting part — it's what stops the model from hallucinating its way into a dangerous recommendation.
+
+`Python` `NLP Pipelines` `LLM Reasoning` `Speech-to-Text`
+
+🏛️ **Indian Patent No. 202611012869** · Published March 2026  
+✅ 92% accuracy · 500+ patient scenarios
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ [KashiVani](https://kashivani.onrender.com/)
+**Multi-Agent · RAG · Hallucination Reduction**
+
+A knowledge retrieval system for Varanasi's cultural heritage. Standard RAG wasn't enough — the hallucination rate was too high. I had to go deeper into *where* similarity measures break down semantically before the 40% reduction was possible.
+
+`RAG` `Multi-Agent NLP` `LangChain` `Vector Search`
+
+🥇 1st Place · Abhyuday'26 State-Level Techno-Cultural Fest
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 [DSA Quest](https://github.com/PriyankaAsthana/PriyankaDSAQuest)
+**Java · Algorithms · Clean Notes**
+
+My running repository of DSA solutions and notes in Java. Not glamorous. But graph algorithms and complexity analysis show up in research more than people admit.
+
+`Java` `Algorithms` `Data Structures`
+
+</td>
+</tr>
+</table>
+
+---
+
+## what I'm actually good at
+
+```python
+skills = {
+    "research_focus"  : ["hallucination mitigation", "constrained LLM reasoning",
+                          "retrieval-augmented generation", "NLP reliability"],
+    "ml_stack"        : ["PyTorch", "TensorFlow", "Scikit-learn", "LangChain"],
+    "languages"       : ["Python", "Java", "JavaScript"],
+    "tools"           : ["Pandas", "NumPy", "OpenCV", "Git"],
+    "currently_reading": ["optimal transport for NLP", "geometric ML", 
+                           "trustworthy AI systems"]
+}
+```
+
+---
+
+## where I've been
+
+```
+Feb 2026 → now   NLP Engineer Intern · IIT BHU
+                 fixed 20+ parsing failures in real-time NLP systems
+
+Dec 2025 → Jan 2026   AI Research Intern · ISRO (Bharat Space Education Research Centre)
+                       ML for UAS control · real-time sensor data fusion
+
+Jul 2025 → Aug 2025   IT Intern · Hindalco Industries (Aditya Birla Group)
+                       ERP pipeline automation · analytical dashboards
+```
+
+---
+
+## output so far
+
+```
+📄  1 paper under review  ──  Springer Nature, Journal of Computational Social Science
+🔬  1 preprint            ──  doi.org/10.5281/zenodo.18149564
+🏛️  1 patent published    ──  Indian Patent No. 202611012869 (March 2026)
+🥇  1 competition win     ──  Abhyuday'26, State Level, 1st Place
+```
+
+---
+
+## what's next
+
+PhD in NLP or trustworthy AI.  
+Specifically: why do language models fail in constrained, high-stakes environments — and what does it take to fix that at a theoretical level, not just an engineering one.
+
+---
+
+<sub>
+📬 asthanapriyanka829@gmail.com &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/priyanka-asthana-1b9a74250">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://diagnoseai-ai-medical-system.onrender.com/">Portfolio</a>
+</sub>
+
+**NLP researcher in progress.** Final-year BTech (Hons.) CSE student at Ashoka Institute of Technology and Management, Varanasi (AKTU) | Minor: Robotics | CGPA: 9.01/10
+
+I build AI systems for healthcare and study why they fail. My work sits at the intersection of constrained LLM reasoning, retrieval-augmented generation, and real-world deployment — specifically how language models break in high-stakes environments and what it takes to make them reliable.
+
+---
+
+## Research Interests
+
+- Hallucination detection and mitigation in large language models
+- Retrieval-Augmented Generation (RAG) for knowledge-grounded systems
+- Constrained reasoning in NLP pipelines
+- AI reliability and trustworthiness in healthcare applications
+- Spatial-temporal decision systems
+
+---
+
+## Projects
+
+### [DiagnoseAI — Voice-Based Medical Symptom Assessment](https://diagnoseai-ai-medical-system.onrender.com/)
+A voice-first NLP system integrating speech-to-text, semantic parsing, and a constrained LLM pipeline for real-time symptom assessment. Tested on 500+ patient scenarios with 92% accuracy. The system's failure — a structurally valid but clinically incorrect output — redirected my entire research focus toward understanding *why* language models fail.
+
+**→ Indian Patent No. 202611012869, published March 2026**
+
+---
+
+### [RAKT — Spatial-Temporal GeoAI Blood Allocation Framework](https://github.com/PriyankaAsthana/RAKT_Blood_Bank_Management)
+Designed a priority-weighted spatial-temporal decision model for emergency blood allocation. The core contribution is a time-bound token reservation mechanism that prevents concurrent reallocation of blood units in transit — a failure mode I identified in existing systems independently. Achieved 100% high-priority allocation and 6.6% distance reduction in scarcity simulations.
+
+**→ Manuscript under review at Springer Nature (Journal of Computational Social Science)**  
+**→ Preprint: [doi.org/10.5281/zenodo.18149564](https://doi.org/10.5281/zenodo.18149564)**
+
+---
+
+### [KashiVani — Multi-Agent RAG System for Cultural Knowledge](https://kashivani.onrender.com/)
+A multi-agent NLP system for culturally grounded knowledge generation about Varanasi's heritage. Built a custom RAG pipeline that reduced hallucinations by 40% compared to baseline — achieved only after identifying the exact points where standard similarity measures failed to capture semantic accuracy.
+
+**→ 1st Place, Project Presentation — Abhyuday'26 State-Level Techno-Cultural Fest**
+
+---
+
+## Publications & Patents
+
+| Type | Title | Status |
+|------|-------|--------|
+| Journal Paper | Priority-Weighted Spatial Framework for Emergency Blood Allocation | Under review, Springer Nature |
+| Preprint | Same | [Zenodo, 2026](https://doi.org/10.5281/zenodo.18149564) |
+| Patent | AI-Driven Conversational Medical Voice Assistant | Published, March 2026 (No. 202611012869) |
+
+---
+
+## Experience
+
+**AI Intern (NLP Engineer) — IIT BHU** *(Feb 2026 – Mar 2026)*  
+NLP-driven test automation; resolved 20+ parsing failures in real-time systems.
+
+**AI Research Intern — Bharat Space Education Research Centre (ISRO)** *(Dec 2025 – Jan 2026)*  
+AI-driven control algorithms for UAS; ML applied to real-time sensor data fusion.
+
+**IT Intern — Hindalco Industries, Aditya Birla Group** *(Jul 2025 – Aug 2025)*  
+Analytical dashboards and ERP data pipeline automation.
+
+---
+
+## Technical Skills
+
+**AI/ML:** PyTorch, TensorFlow, Scikit-learn, LangChain, RAG frameworks, constrained LLM reasoning  
+**NLP:** Text processing pipelines, semantic parsing, hallucination mitigation, multi-agent systems  
+**Programming:** Python, Java, JavaScript  
+**Tools:** Pandas, NumPy, OpenCV, Git
+
+---
+
+## Certifications
+
+- Microsoft Azure AI-102 — Designing and Implementing AI Solutions
+- Microsoft Azure AI-900 — AI Fundamentals
+- Oracle AI Vector Search Professional (2025)
+- McKinsey Forward Program (2025)
+
+---
+
+## Contact
+
+[asthanapriyanka829@gmail.com](mailto:asthanapriyanka829@gmail.com) · [LinkedIn](https://www.linkedin.com/in/priyanka-asthana-1b9a74250) · [Portfolio](https://diagnoseai-ai-medical-system.onrender.com/)
+
+---
+
+*Long-term goal: PhD in NLP / trustworthy AI.*
