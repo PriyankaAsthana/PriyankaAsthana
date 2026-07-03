@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,25:1E1B4B,50:134E4A,75:5EEAD4,100:A78BFA&height=280&section=header&text=Priyanka%20Asthana&fontSize=70&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=NLP%20%26%20Constrained%20LLM%20Systems%20%7C%20Reliability%20Engineering%20%7C%20Research&descAlignY=57&descSize=19&descColor=5EEAD4"/>
@@ -8,7 +7,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&height=60&lines=→+I+build+reasoning+systems+at+scale;→+then+I+find+where+they+fail+first;→+patent+holder+%7C+Springer+Nature+reviewer+%7C+ERA:AI+finalist" alt="Research Focus" />
 
 <br/>
-
 <div align="center">
 
 ### 🔬 Research Vectors
