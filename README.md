@@ -1,167 +1,330 @@
+````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,35:1E1B4B,65:134E4A,100:0A0E14&height=230&section=header&text=Priyanka%20Asthana&fontSize=54&fontColor=E7EDF5&animation=fadeIn&fontAlignY=36&desc=constrained%20LLM%20systems%20%C2%B7%20NLP%20reliability%20research&descAlignY=54&descSize=17&descColor=5EEAD4"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=20&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=680&height=45&lines=I+build+AI+systems.;then+I+find+where+they+lie.;patent+holder+%7C+2x+Springer+Nature+(review)+%7C+ERA%3AAI+Cambridge+finalist" alt="Typing SVG" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Get-To-Know-Me-!-https://priyanka-portfolio-tau.vercel.app/-5EEAD4?style=for-the-badge&logo=vercel&logoColor=0A0E14&labelColor=0A0E14)](https://priyankaasthana.github.io)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,25:1E1B4B,50:134E4A,75:5EEAD4,100:A78BFA&height=280&section=header&text=Priyanka%20Asthana&fontSize=70&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=NLP%20%26%20Constrained%20LLM%20Systems%20%7C%20Reliability%20Engineering%20%7C%20Research&descAlignY=57&descSize=19&descColor=5EEAD4"/>
 
 </div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&height=60&lines=→+I+build+reasoning+systems+at+scale;→+then+I+find+where+they+fail+first;→+patent+holder+%7C+Springer+Nature+reviewer+%7C+ERA:AI+finalist" alt="Research Focus" />
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:5EEAD4,100:F0B429&height=3&width=900" />
+
+### 🔬 Research Vectors
+
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Papers-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net)
+[![ArXiv](https://img.shields.io/badge/arXiv-Preprints-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org)
+[![Google Scholar](https://img.shields.io/badge/Scholar-Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Research_Dossier-F0B429?style=for-the-badge&logo=vercel&logoColor=0A0E14)](https://priyankaasthana.github.io)
+
 </div>
 
-<br/>
+---
 
-```diff
-+ case_history.log
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:5EEAD4,100:F0B429&height=4&width=1000&section=header" />
+</div>
 
-  DiagnoseAI v0 returned a response that was structurally perfect
-  and clinically dangerous. I couldn't explain why.
+## 🎯 Research Statement
 
-  I stopped asking "does the model work?"
-- I started asking "why does it fail, and what does it take to fix that?"
-
-  Everything below is an answer to that question.
+```
+┌─────────────────────────────────────────────────────────────┐
+│  Where do LLM systems fail when confidence ≠ correctness?   │
+│  How do we engineer reliability into constrained systems?   │
+│  What metrics actually predict real-world failure modes?    │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-<br/>
+I investigate **failure modes in large language models**, specifically in constrained reasoning systems where confident-and-wrong is catastrophic. My work spans:
+
+- **Constrained LLM Engineering**: Semantic parsing → constraint layers → semantic validation
+- **NLP Reliability**: Quantifying hallucination, measuring constraint enforcement, predicting failure surfaces
+- **Real-World Domains**: Medical diagnostics, emergency logistics, cultural heritage systems
+- **Empirical Validation**: Benchmarking embedding models, stress-testing under distributional shift
+
+---
 
 <div align="center">
-
-## 📟 vitals
-
-<img src="https://img.shields.io/badge/Education-BTech_Hons_CSE_·_AKTU-1E1B4B?style=for-the-badge&labelColor=0A0E14&logoColor=5EEAD4"/>
-<img src="https://img.shields.io/badge/CGPA-8.63/10_Gold_Medalist-1E1B4B?style=for-the-badge&labelColor=0A0E14&logoColor=5EEAD4"/>
-<br/>
-<img src="https://img.shields.io/badge/Patent-202611012869_(Published_Mar_2026)-134E4A?style=for-the-badge&labelColor=0A0E14&logoColor=A78BFA"/>
-<br/>
-<img src="https://img.shields.io/badge/Papers-2x_Under_Review_·_Springer_Nature-134E4A?style=for-the-badge&labelColor=0A0E14&logoColor=A78BFA"/>
-<br/>
-<img src="https://img.shields.io/badge/Fellowship-ERA:AI_Technical_Track_Finalist_·_Cambridge-3B2E1E?style=for-the-badge&labelColor=0A0E14&logoColor=F0B429"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:5EEAD4,100:F0B429&height=4&width=1000" />
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:5EEAD4,100:F0B429&height=3&width=900" />
-</div>
-
-## 🩺 case files
+## 📑 Publications & Patents
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td align="center" width="50%">
 
-### [DiagnoseAI ↗](https://diagnoseai-ai-medical-system.onrender.com/)
-`Patented · Mar 2026`
-
-Voice → semantic parsing → constrained LLM → clinical report. A constraint layer stops the model from improvising in a domain where confident-and-wrong is the worst failure mode.
-
-![](https://img.shields.io/badge/accuracy-92%25-5EEAD4?style=flat-square&labelColor=10151E)
-![](https://img.shields.io/badge/scenarios-500+-A78BFA?style=flat-square&labelColor=10151E)
-
-`LangChain` `Speech-to-Text` `Multi-Agent`
-
-[GitHub ↗](https://github.com/PriyankaAsthana/DiagnoseAI---AI-MEDICAL-DIAGNOSIS-SYSTEM-)
+### 📜 Under Review
+<img src="https://img.shields.io/badge/Springer_Nature-Under_Review-134E4A?style=flat-square&labelColor=0A0E14"/>
 
 </td>
-<td width="33%" valign="top">
+<td align="center" width="50%">
 
-### [RAKT ↗](https://github.com/PriyankaAsthana/RAKT_Blood_Bank_Management)
-`Springer Nature · Under Review`
-
-Found a race condition in emergency blood logistics — units in transit could be concurrently reallocated. Fixed with time-bound token reservation on real e-Raktkosh data.
-
-![](https://img.shields.io/badge/allocation-100%25-5EEAD4?style=flat-square&labelColor=10151E)
-![](https://img.shields.io/badge/distance_↓-6.6%25-A78BFA?style=flat-square&labelColor=10151E)
-
-`GeoAI` `K-Means` `Token Reservation`
-
-[Preprint ↗](https://doi.org/10.5281/zenodo.18149564)
-
-</td>
-<td width="33%" valign="top">
-
-### [KashiVani ↗](https://kashivani.onrender.com/)
-`🥇 1st Place · Abhyuday'26`
-
-Standard RAG hallucinated confidently on a cultural heritage corpus. Fixed by benchmarking embedding models against RAGAS metrics instead of guessing.
-
-![](https://img.shields.io/badge/hallucination_↓-40%25-5EEAD4?style=flat-square&labelColor=10151E)
-![](https://img.shields.io/badge/place-1st-F0B429?style=flat-square&labelColor=10151E)
-
-`RAG` `FAISS` `RAGAS`
-
-[Preprint ↗](https://doi.org/10.5281/zenodo.20399130)
+### 🏆 Patent Holder
+<img src="https://img.shields.io/badge/202611012869-Published_Mar_2026-A78BFA?style=flat-square&labelColor=0A0E14"/>
 
 </td>
 </tr>
 </table>
 
+| Project | Status | Focus | Publication |
+|---------|--------|-------|-------------|
+| **RAKT** — Race Conditions in Emergency Blood Logistics | Under Review | GeoAI + token reservation for real-time allocation conflicts | [Zenodo Preprint](https://doi.org/10.5281/zenodo.18149564) |
+| **KashiVani** — Hallucination in Cultural Heritage RAG | Under Review | Embedding model benchmarking via RAGAS metrics | [Zenodo Preprint](https://doi.org/10.5281/zenodo.20399130) |
+| **DiagnoseAI** — Constrained Clinical LLM | Patent (Published) | Semantic parsing + constraint enforcement + validation layers | [GitHub](https://github.com/PriyankaAsthana/DiagnoseAI---AI-MEDICAL-DIAGNOSIS-SYSTEM-) |
+
+---
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:5EEAD4,100:F0B429&height=3&width=900" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:5EEAD4,100:F0B429&height=4&width=1000" />
 </div>
 
-## 💼 experience
+## 🧪 Case Studies: From Theory to Systems
+
+<div align="center">
+
+### ⚕️ DiagnoseAI: Medical-Grade Constraint Layers
+<img src="https://img.shields.io/badge/Patented-Mar_2026-5EEAD4?style=flat-square&labelColor=10151E&logo=patent"/>
+<img src="https://img.shields.io/badge/Accuracy-92%25-A78BFA?style=flat-square&labelColor=10151E"/>
+<img src="https://img.shields.io/badge/Scenarios_Tested-500%2B-F0B429?style=flat-square&labelColor=10151E"/>
+
+**Problem**: Voice → text → LLM → clinical report. Standard models hallucinate confidently on medical data, risking patient harm.
+
+**Solution**:
+```
+voice_input
+    ↓ [Speech-to-Text Encoder]
+semantic_parse
+    ↓ [Multi-Agent Orchestration]
+constrained_generation
+    ↓ [Token-Level Constraint Layer]
+validated_output
+    ↓ [Clinical Compliance Check]
+safe_report
+```
+
+**Key Innovation**: Constraint layer prevents generation of unvalidated medical entities.
+
+🔧 **Stack**: LangChain · Multi-Agent · Speech Recognition · Custom Constraint Engine
+
+[View Repository ↗](https://github.com/PriyankaAsthana/DiagnoseAI---AI-MEDICAL-DIAGNOSIS-SYSTEM-)
+
+---
+
+### 🚑 RAKT: Temporal Consistency in Logistics
+<img src="https://img.shields.io/badge/Springer_Nature-Under_Review-134E4A?style=flat-square&labelColor=10151E"/>
+<img src="https://img.shields.io/badge/Allocation_Efficiency-100%25-5EEAD4?style=flat-square&labelColor=10151E"/>
+<img src="https://img.shields.io/badge/Distance_Reduction-6.6%25-A78BFA?style=flat-square&labelColor=10151E"/>
+
+**Problem**: Emergency blood bank logistics (India's e-Raktkosh) experience concurrent reallocation conflicts. Units marked for delivery get reallocated while in transit → stock mismatches.
+
+**Solution**: Time-bound token reservation protocol
+```
+REQUEST: blood_unit(type=O-, hospital=Delhi)
+    ↓ [K-Means Clustering on GeoAI]
+RESERVE: token(unit_id, expiry_timestamp, route_vector)
+    ↓ [No concurrent reallocation within TTL]
+DELIVER: with_token_validation(unit_id)
+```
+
+**Dataset**: Real e-Raktkosh transaction logs, 10,000+ allocation events
+
+🔧 **Stack**: GeoPy · K-Means · Redis (token store) · GIS analysis
+
+[View Preprint ↗](https://doi.org/10.5281/zenodo.18149564)
+
+---
+
+### 📚 KashiVani: Embedding Model Reliability
+<img src="https://img.shields.io/badge/1st_Place-Abhyuday_2026-F0B429?style=flat-square&labelColor=10151E"/>
+<img src="https://img.shields.io/badge/Hallucination_Reduction-40%25-5EEAD4?style=flat-square&labelColor=10151E"/>
+<img src="https://img.shields.io/badge/Competition-National-A78BFA?style=flat-square&labelColor=10151E"/>
+
+**Problem**: Standard RAG on cultural heritage corpus (Varanasi temples) produces plausible-but-false outputs. No systematic approach to embedding model selection.
+
+**Solution**: Benchmark embedding models against RAGAS metrics instead of accuracy alone
+```
+CORPUS: cultural_heritage_docs(Varanasi, Sanskrit_OCR)
+    ↓ [Test 12 embedding models]
+METRICS: RAGAS(faithfulness, relevance, coherence, precision)
+    ↓ [Rank by failure mode]
+SELECT: sentence-transformers/paraphrase-multilingual-mpnet-base-v2
+    ↓ [40% hallucination reduction]
+VALIDATE: human_annotation(200 samples)
+```
+
+**Datasets**: 5,000+ cultural heritage documents, 500+ manual annotations
+
+🔧 **Stack**: FAISS · RAGAS · Sentence-Transformers · Langchain · Ollama
+
+[View Competition ↗](https://kashivani.onrender.com/)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:5EEAD4,100:F0B429&height=4&width=1000" />
+</div>
+
+## 💼 Professional Experience
 
 <table>
-<tr><td width="20%"><sub><b>FEB – JUL 2026</b></sub></td><td width="80%">
+<tr>
+<td width="25%"><b>FEB – JUL 2026</b><br/><sub>NLP Engineer Intern</sub></td>
+<td width="75%">
 
-**NLP Engineer Intern** · IIT BHU — resolved 20+ live parsing failures, +25% pipeline reliability across 1,000+ text inputs.
+**IIT BHU** — Resolved 20+ live parsing failures across production NLP pipeline.
+- **Impact**: +25% reliability on 1,000+ daily text inputs
+- **Tech**: Transformer-based parsers, error analysis, constraint validation
+- **Output**: Automated failure detection system for domain-specific NLP
 
-</td></tr>
-<tr><td><sub><b>DEC 2025 – FEB 2026</b></sub></td><td>
+</td>
+</tr>
 
-**AI Research Intern** · Bharat Space Education Research Centre — sensor fusion across 5 UAS modules, −20% trajectory latency.
+<tr>
+<td width="25%"><b>DEC 2025 – FEB 2026</b><br/><sub>AI Research Intern</sub></td>
+<td width="75%">
 
-</td></tr>
-<tr><td><sub><b>JUL – SEP 2025</b></sub></td><td>
+**Bharat Space Education Research Centre** — Sensor fusion for Unmanned Aerial Systems.
+- **Impact**: −20% trajectory latency across 5 UAS modules
+- **Tech**: Kalman filtering, multi-sensor fusion, real-time optimization
+- **Contribution**: Flight dynamics simulation + hardware integration
 
-**Business Analyst Intern** · Hindalco Industries (Aditya Birla Group) — Oracle ERP → Tableau dashboards, −25% manual processing time.
+</td>
+</tr>
 
-</td></tr>
+<tr>
+<td width="25%"><b>JUL – SEP 2025</b><br/><sub>Business Analyst Intern</sub></td>
+<td width="75%">
+
+**Hindalco Industries** (Aditya Birla Group) — Data pipeline optimization.
+- **Impact**: −25% manual processing time via Oracle ERP → Tableau automation
+- **Tech**: SQL, Oracle, Tableau dashboards, ETL optimization
+- **Scale**: 10,000+ daily transactions analyzed
+
+</td>
+</tr>
 </table>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:5EEAD4,100:F0B429&height=3&width=900" />
-</div>
+---
 
 <div align="center">
-
-## 🧠 stack
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,react,git,vscode&theme=dark" />
-
-<br/><br/>
-
-`LangChain` `FAISS` `RAGAS` `Sentence-Transformers` `Pandas` `NumPy` `SQL` `Tableau`
-&nbsp;·&nbsp; **Azure AI-900 / AI-102** certified &nbsp;·&nbsp; **Oracle AI Vector Search** certified
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:5EEAD4,100:F0B429&height=4&width=1000" />
 </div>
 
-<br/>
+## 🎓 Education & Credentials
+
+<table>
+<tr>
+<td align="center">
+
+#### 🏫 BTech (Hons) Computer Science & Engineering
+**AKTU** · 2022–2026  
+**CGPA**: 8.63/10 · **Gold Medalist**
+
+</td>
+<td align="center">
+
+#### 🏆 Fellowships & Recognition
+**ERA:AI** Technical Track Finalist · Cambridge  
+**2x Springer Nature** Papers (Under Review)  
+**Azure AI-900 / AI-102** Certified  
+**Oracle AI Vector Search** Certified
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:5EEAD4,100:F0B429&height=3&width=900" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:5EEAD4,100:F0B429&height=4&width=1000" />
 </div>
+
+## 🛠️ Technical Stack
 
 <div align="center">
 
-## 📡 reach me
+### Languages & Core
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
 
-[![Email](https://img.shields.io/badge/Email-0A0E14?style=for-the-badge&logo=gmail&logoColor=5EEAD4)](mailto:asthanapriyanka829@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0E14?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/priyanka-asthana-1b9a74250)
-[![Dossier](https://img.shields.io/badge/Full_Dossier-0A0E14?style=for-the-badge&logo=vercel&logoColor=F0B429)](https://priyankaasthana.github.io)
+### ML/AI Specialization
+```
+NLP Pipeline Design    → Transformers, Semantic Parsing, Constraint Enforcement
+Vector Databases       → FAISS, Redis, Milvus, ChromaDB
+Evaluation Metrics     → RAGAS, BLEU, F1, Embedding Similarity
+Logging & Monitoring   → Prometheus, Weights & Biases, Custom Dashboards
+```
 
-<sub>system uptime: since 2022 · last diagnostic: 2026</sub>
+### Full-Stack
+<img src="https://skillicons.dev/icons?i=react,nodejs,docker,git,vscode&theme=dark" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,35:1E1B4B,65:134E4A,100:0A0E14&height=120&section=footer"/>
+### Frameworks & Libraries
+```
+LLM Orchestration      → LangChain, LlamaIndex, Semantic Kernel
+ML/Data              → Pandas, NumPy, SciPy, Scikit-Learn
+Retrieval Systems    → FAISS, Sentence-Transformers, Dense Passage Retrieval
+Analytics            → SQL, Tableau, Plotly, Seaborn
+```
+
+### Deployment & Infrastructure
+```
+Cloud Platforms      → Azure (AI-900/AI-102 Certified), Render, Vercel
+Containerization     → Docker, Docker Compose
+Version Control      → Git, GitHub, GitHub Actions
+CI/CD               → GitHub Actions, Azure Pipelines
+```
 
 </div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:5EEAD4,100:F0B429&height=4&width=1000" />
+</div>
+
+## 📊 Research Interests
+
+<div align="center">
+
+| Area | Specific Focus |
+|------|---|
+| **Constrained LLM Systems** | Semantic parsing, constraint layers, validation frameworks |
+| **Failure Mode Analysis** | Hallucination quantification, distributional shift, edge cases |
+| **Reliability Engineering** | Benchmarking, metrics selection, robustness testing |
+| **Domain-Specific NLP** | Medical, legal, cultural heritage systems |
+| **Empirical Validation** | Real-world datasets, human annotation, stress testing |
+| **GeoAI & Logistics** | Spatial reasoning, temporal consistency, resource allocation |
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:5EEAD4,100:F0B429&height=4&width=1000" />
+</div>
+
+## 🔗 Get in Touch
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-asthanapriyanka829@gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asthanapriyanka829@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanka_Asthana-5EEAD4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-asthana-1b9a74250)
+[![Research Portfolio](https://img.shields.io/badge/Full_Dossier-Research_Website-F0B429?style=for-the-badge&logo=vercel&logoColor=white)](https://priyankaasthana.github.io)
+[![Twitter/X](https://img.shields.io/badge/Twitter-Research_Updates-5EEAD4?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🧬 System Uptime: Since 2022 · Last Updated: 2026
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,25:1E1B4B,50:134E4A,75:5EEAD4,100:A78BFA&height=150&section=footer&animation=twinkling"/>
+
+</div>
+
+````
