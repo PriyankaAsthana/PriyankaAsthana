@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,25:1E1B4B,50:134E4A,75:5EEAD4,100:A78BFA&height=280&section=header&text=Priyanka%20Asthana&fontSize=70&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=NLP%20%26%20Constrained%20LLM%20Systems%20%7C%20Reliability%20Engineering%20%7C%20Research&descAlignY=57&descSize=19&descColor=5EEAD4"/>
@@ -327,4 +327,3 @@ CI/CD               → GitHub Actions, Azure Pipelines
 
 </div>
 
-````
