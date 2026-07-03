@@ -20,8 +20,7 @@ I investigate **failure modes in large language models**, specifically in constr
 
 | Platform | Link |
 |----------|------|
-| **ResearchGate** | https://www.researchgate.net |
-| **Google Scholar** | https://scholar.google.com |
+| **Google Scholar** | https://scholar.google.com/citations?user=_cNMAsEc3DcC |
 | **Portfolio** | https://priyankaasthana.github.io |
 
 ---
