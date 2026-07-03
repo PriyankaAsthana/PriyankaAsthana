@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/VIEW_LIVE_DIAGNOSTIC_DOSSIER-priyankaasthana.github.io-5EEAD4?style=for-the-badge&logo=vercel&logoColor=0A0E14&labelColor=0A0E14)](https://priyankaasthana.github.io)
+[![Portfolio](https://img.shields.io/badge/Get-To-Know-Me-!-https://priyanka-portfolio-tau.vercel.app/-5EEAD4?style=for-the-badge&logo=vercel&logoColor=0A0E14&labelColor=0A0E14)](https://priyankaasthana.github.io)
 
 </div>
 
