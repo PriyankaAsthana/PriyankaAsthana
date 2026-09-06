@@ -145,8 +145,7 @@ VALIDATE: human_annotation(200 samples)
 
 | Period | Role | Organization | Impact |
 |--------|------|--------------|--------|
-| **AUG – NOV 2026** | AI/ML Intern | Indian Army - DGIS | Building an AI-based decision-support model for real-time operational data analysis, translating requirements from
-domain stakeholders into a working ML pipeline. |
+| **AUG – NOV 2026** | AI/ML Intern | Indian Army - DGIS | Building an AI-based decision-support model for real-time operational data analysis, translating requirements from domain stakeholders into a working ML pipeline. |
 | **FEB – JUL 2026** | NLP Engineer Intern | IIT BHU | Resolved 20+ live parsing failures; +25% pipeline reliability on 1,000+ daily inputs |
 | **DEC 2025 – FEB 2026** | AI Research Intern | Bharat Space Education Research Centre | Sensor fusion across 5 UAS modules; −20% trajectory latency |
 | **JUL – SEP 2025** | Business Analyst Intern | Hindalco Industries (Aditya Birla Group) | Oracle ERP → Tableau automation; −25% manual processing time |
