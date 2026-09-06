@@ -58,3 +58,68 @@ CURRENT FOCUS
 └── Applied AI Research
 
 $ _
+<div align="center">
+☀️ SOLARDROUGHT
+AI-Driven Solar Drought Intelligence
+
+Davos, Switzerland · Hourly Solar Analysis · Research System
+
+<br> <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00F5FF&section=header"/> </div>
+MISSION
+
+SolarDrought investigates periods of unusually reduced solar-resource availability by combining solar radiation, atmospheric conditions and persistence-aware anomaly analysis.
+
+The system is designed around:
+
+                     SOLAR RESOURCE
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │       GHI           │
+                │ Primary Variable    │
+                └──────────┬──────────┘
+                           │
+             ┌─────────────┼─────────────┐
+             ▼             ▼             ▼
+          CLOUDS          AOD        METEOROLOGY
+             │             │             │
+             └─────────────┼─────────────┘
+                           ▼
+                 CLEAR-SKY NORMALIZATION
+                           │
+                           ▼
+                   ANOMALY DETECTION
+                           │
+                    ┌──────┴──────┐
+                    ▼             ▼
+                 THRESHOLD     PERSISTENCE
+                    │             │
+                    └──────┬──────┘
+                           ▼
+                 EVENT CHARACTERIZATION
+                           │
+              ┌────────────┼────────────┐
+              ▼            ▼            ▼
+           INTENSITY     DURATION     SEVERITY
+                           │
+                           ▼
+                   TIME-AWARE VALIDATION
+
+PRIMARY SOLAR DATA
+└── CAMS Solar Radiation
+    ├── GHI
+    └── Clear-sky reference
+
+ATMOSPHERIC / METEOROLOGICAL DATA
+├── ERA5
+├── CAMS Global Reanalysis
+│   └── Aerosols / AOD
+└── Cloud + meteorological variables
+
+BENCHMARK / VALIDATION
+├── PVGIS-SARAH3 / PV output
+└── Ground observations
+    ├── PMOD / WRC
+    └── MeteoSwiss
+
+```
