@@ -432,3 +432,454 @@
 </a>
 
 </div>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 02 // ACTIVE RESEARCH                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br>
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00E5FF"
+width="90%"
+/>
+
+<br><br>
+
+<h2>☀️ SOLARDROUGHT // ACTIVE RESEARCH</h2>
+
+<p>
+<b>AI-DRIVEN SOLAR RESOURCE INTELLIGENCE</b>
+</p>
+
+<code>DAVOS, SWITZERLAND</code>
+&nbsp;&nbsp;
+<code>HOURLY RESOLUTION</code>
+&nbsp;&nbsp;
+<code>RESEARCH MODE: ACTIVE</code>
+
+<br><br>
+
+</div>
+
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      RESEARCH HUD                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<table width="100%">
+<tr>
+
+<td width="62%" valign="top">
+
+<div align="center">
+
+<h3>◉ SOLAR RESOURCE MONITOR</h3>
+
+</div>
+
+<br>
+
+<!-- Put your REAL SolarDrought primary visualization here -->
+<img
+src="./assets/solardrought/ghi-analysis.png"
+width="100%"
+alt="SolarDrought GHI analysis"
+/>
+
+<br>
+
+<div align="center">
+
+<sub>
+PRIMARY SIGNAL // GLOBAL HORIZONTAL IRRADIANCE
+</sub>
+
+</div>
+
+</td>
+
+
+<td width="38%" valign="top">
+
+<div align="center">
+
+<h3>RESEARCH TELEMETRY</h3>
+
+</div>
+
+<br>
+
+<table width="100%">
+
+<tr>
+<td><b>LOCATION</b></td>
+<td>Davos, Switzerland</td>
+</tr>
+
+<tr>
+<td><b>RESOLUTION</b></td>
+<td>Hourly</td>
+</tr>
+
+<tr>
+<td><b>PRIMARY</b></td>
+<td>GHI</td>
+</tr>
+
+<tr>
+<td><b>REFERENCE</b></td>
+<td>Clear-Sky</td>
+</tr>
+
+<tr>
+<td><b>ATMOSPHERE</b></td>
+<td>Clouds + AOD</td>
+</tr>
+
+<tr>
+<td><b>DETECTION</b></td>
+<td>Anomaly + Threshold</td>
+</tr>
+
+<tr>
+<td><b>PERSISTENCE</b></td>
+<td>Event-aware</td>
+</tr>
+
+<tr>
+<td><b>VALIDATION</b></td>
+<td>Time-aware</td>
+</tr>
+
+</table>
+
+<br>
+
+<div align="center">
+
+<code>● DATA PIPELINE ACTIVE</code>
+
+<br><br>
+
+<code>● ANOMALY ENGINE ACTIVE</code>
+
+<br><br>
+
+<code>● EVENT ENGINE ACTIVE</code>
+
+<br><br>
+
+<code>○ PREDICTION NEXT PHASE</code>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+
+<br><br>
+
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    RESEARCH PIPELINE                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<h3>⚡ RESEARCH PIPELINE</h3>
+
+<br>
+
+<table width="100%">
+<tr>
+
+<td align="center">
+<b>01</b><br>
+RAW SOLAR DATA
+</td>
+
+<td align="center">
+<b>→</b>
+</td>
+
+<td align="center">
+<b>02</b><br>
+DATA QUALITY
+</td>
+
+<td align="center">
+<b>→</b>
+</td>
+
+<td align="center">
+<b>03</b><br>
+CLEAR-SKY
+</td>
+
+<td align="center">
+<b>→</b>
+</td>
+
+<td align="center">
+<b>04</b><br>
+ANOMALY
+</td>
+
+<td align="center">
+<b>→</b>
+</td>
+
+<td align="center">
+<b>05</b><br>
+PERSISTENCE
+</td>
+
+<td align="center">
+<b>→</b>
+</td>
+
+<td align="center">
+<b>06</b><br>
+EVENTS
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<code>
+INTENSITY
+</code>
+
+&nbsp;&nbsp;→&nbsp;&nbsp;
+
+<code>
+DURATION
+</code>
+
+&nbsp;&nbsp;→&nbsp;&nbsp;
+
+<code>
+SEVERITY
+</code>
+
+&nbsp;&nbsp;→&nbsp;&nbsp;
+
+<code>
+TIME-AWARE VALIDATION
+</code>
+
+</div>
+
+
+<br><br>
+
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ANALYTICS GRID                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+<h3>📈 ANOMALY ENGINE</h3>
+
+</div>
+
+<img
+src="./assets/solardrought/anomaly-analysis.png"
+width="100%"
+alt="SolarDrought anomaly analysis"
+/>
+
+<div align="center">
+
+<sub>
+ANOMALY / THRESHOLD / PERSISTENCE ANALYSIS
+</sub>
+
+</div>
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+<h3>⚠️ EVENT CHARACTERIZATION</h3>
+
+</div>
+
+<img
+src="./assets/solardrought/event-analysis.png"
+width="100%"
+alt="SolarDrought event characterization"
+/>
+
+<div align="center">
+
+<sub>
+INTENSITY / DURATION / SEVERITY
+</sub>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+
+<br><br>
+
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     SYSTEM ARCHITECTURE                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<h3>🛰️ SYSTEM ARCHITECTURE</h3>
+
+<br>
+
+<table width="100%">
+<tr>
+
+<td align="center">
+☀️<br>
+<b>SOLAR RADIATION</b><br>
+<sub>CAMS Solar Radiation</sub>
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+🌤️<br>
+<b>ATMOSPHERE</b><br>
+<sub>Clouds / AOD / Meteorology</sub>
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+🧠<br>
+<b>INTELLIGENCE</b><br>
+<sub>Anomaly Detection</sub>
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+⚠️<br>
+<b>EVENT ENGINE</b><br>
+<sub>Persistence + Severity</sub>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+
+<td align="center">
+<b>PRIMARY</b><br>
+GHI
+</td>
+
+<td align="center">
+<b>NORMALIZATION</b><br>
+Clear-Sky
+</td>
+
+<td align="center">
+<b>DETECTION</b><br>
+Threshold
+</td>
+
+<td align="center">
+<b>VALIDATION</b><br>
+Time-Aware
+</td>
+
+<td align="center">
+<b>FUTURE</b><br>
+Prediction
+</td>
+
+</tr>
+</table>
+
+</div>
+
+
+<br><br>
+
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        RESEARCH CARD                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<table width="92%">
+<tr>
+
+<td align="center">
+
+<h3>☀️ THE RESEARCH QUESTION</h3>
+
+<br>
+
+<p>
+How can unusually reduced solar-resource availability
+be detected, characterized and validated from
+high-resolution solar and atmospheric data?
+</p>
+
+<br>
+
+<code>
+GHI → CLEAR-SKY NORMALIZATION → ANOMALY
+→ PERSISTENCE → EVENT → SEVERITY
+</code>
+
+<br><br>
+
+<a href="YOUR_SOLARDROUGHT_REPO_URL">
+<img
+src="https://img.shields.io/badge/VIEW_SOLARDROUGHT_REPOSITORY-00E5FF?style=for-the-badge&logo=github&logoColor=000000"
+/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+
+<br>
+
+<div align="center">
+
+<code>
+SOLARDROUGHT // RESEARCH SYSTEM // ACTIVE
+</code>
+
+</div>
+
+<br>
