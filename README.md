@@ -71,13 +71,6 @@
     alt="Technical skills and development tools"
   />
 
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/01-IDENTITY%20INITIALIZED-FF3B30?style=flat-square&labelColor=111111"/>
-  <img src="https://img.shields.io/badge/STATUS-ENGINEERING%20ACTIVE-FF9F1C?style=flat-square&labelColor=111111"/>
-
-  <br/>
-
 </div>
 
 <!-- ========================================================= -->
