@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/GITHUB-EXPLORE%20REPOSITORIES-151515?style=for-the-badge&logo=github&logoColor=FF3B30"/>
   </a>
 
-  <a href="mailto:asthanapriyanka829@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=asthanapriyanka829@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-151515?style=for-the-badge&logo=gmail&logoColor=FF9F1C"/>
   </a>
 
