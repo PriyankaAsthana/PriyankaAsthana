@@ -328,3 +328,370 @@ I am particularly interested in how intelligent systems retrieve information, in
 <!-- NEXT: PART 03 | TECH ARSENAL                              -->
 <!-- ========================================================= -->
 
+<!-- ========================================================= -->
+<!-- PART 04 | PROJECT & RESEARCH VAULT                        -->
+<!-- CORPORATE CYBERPUNK | RESEARCH LAB EDITION                -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+  <img
+    src="https://img.shields.io/badge/04%20%2F%2F%20RESEARCH%20DIVISION-PROJECT%20VAULT-FF3B30?style=for-the-badge&labelColor=090909"
+    alt="Part 04 — Project and Research Vault"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=2300&pause=1000&color=FF9F1C&center=true&vCenter=true&repeat=true&width=700&height=30&lines=%3E+ACCESSING+RESEARCH+ARCHIVE...;%3E+PROJECTS+%2F%2F+EXPERIMENTS+%2F%2F+DISCOVERIES;%3E+FROM+HYPOTHESIS+TO+IMPLEMENTATION;%3E+END+OF+ARCHIVE."
+    alt="Research vault initialization"
+  />
+
+</div>
+
+---
+
+<div align="center">
+
+  <h2>◈ SELECTED ENGINEERING PROJECTS ◈</h2>
+
+  <sub>
+    SYSTEMS BUILT. HYPOTHESES TESTED. RESULTS EVALUATED.
+  </sub>
+
+</div>
+
+## `01 // SOLARDROUGHT`
+
+<badge color="danger">STATISTICAL ML</badge> <badge color="warning">RESEARCH PROJECT</badge>
+
+### Statistical Identification of Solar Energy Droughts
+
+<sub>MAY 2026 — SEPTEMBER 2026</sub>
+
+**Can periods of unusually low solar availability be identified consistently across different climatological baselines?**
+
+SolarDrought investigates persistent low-solar-availability events using historical solar observations, clear-sky normalization, and statistical anomaly identification.
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/DATASET-87%2C696%20HOURLY%20OBSERVATIONS-FF3B30?style=for-the-badge&labelColor=111111"/>
+  <img src="https://img.shields.io/badge/CSI%20OBSERVATIONS-47%2C621-FF9F1C?style=for-the-badge&labelColor=111111"/>
+  <img src="https://img.shields.io/badge/PERSISTENT%20EVENTS-116-FF3B30?style=for-the-badge&labelColor=111111"/>
+
+</div>
+
+**The research pipeline**
+
+```text
+HISTORICAL SOLAR OBSERVATIONS
+             |
+             v
+      DATA VALIDATION
+             |
+             v
+  CLEAR-SKY INDEX DERIVATION
+             |
+             v
+  CLIMATOLOGICAL BASELINES
+             |
+             v
+  ANOMALY IDENTIFICATION
+             |
+             v
+  EVENT CHARACTERIZATION
+```
+
+**Key findings**
+
+- Processed and quality-validated 87,696 hourly solar observations spanning 2015–2025.
+- Derived 47,621 daylight Clear-Sky Index observations through GHI and clear-sky normalization.
+- Evaluated three climatological anomaly baselines using leave-one-year-out validation across 10 complete years.
+- Obtained **0.825 Jaccard agreement** between global and monthly Q10 classifications.
+- Identified 116 persistent six-hour low-availability events using a global 10th-percentile CSI threshold.
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PANDAS-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NUMPY-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PVLIB-151515?style=flat-square&labelColor=FF9F1C"/>
+  <img src="https://img.shields.io/badge/STATISTICAL%20ANALYSIS-151515?style=flat-square&labelColor=FF3B30"/>
+
+</div>
+
+---
+
+## `02 // KASHIVANI`
+
+<badge color="danger">GENERATIVE AI</badge> <badge color="warning">RAG SYSTEM</badge>
+
+### Domain-Specific RAG Pipeline for Cultural Heritage
+
+<sub>SEPTEMBER 2025 — MARCH 2026</sub>
+
+**Making domain-specific knowledge accessible through retrieval-grounded language generation.**
+
+Kashivani is an end-to-end Retrieval-Augmented Generation system designed around Varanasi's cultural heritage knowledge.
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/ARCHITECTURE-END--TO--END%20RAG-FF3B30?style=for-the-badge&labelColor=111111"/>
+  <img src="https://img.shields.io/badge/EVALUATION-RAGAS-FF9F1C?style=for-the-badge&labelColor=111111"/>
+
+</div>
+
+**Inside the architecture**
+
+```text
+CULTURAL HERITAGE KNOWLEDGE
+             |
+             v
+       DOCUMENT INGESTION
+             |
+             v
+          CHUNKING
+             |
+             v
+          EMBEDDING
+             |
+             v
+     FAISS VECTOR RETRIEVAL
+             |
+             v
+       LLM GENERATION
+             |
+             v
+      GROUNDED RESPONSE
+```
+
+**What makes it interesting**
+
+- Built an end-to-end ingestion, chunking, embedding, retrieval and generation pipeline.
+- Used FAISS-based vector retrieval for domain-specific knowledge access.
+- Evaluated embedding models through RAGAS.
+- Assessed faithfulness, answer relevancy and factual correctness.
+- Achieved a **40% reduction in hallucinations** through systematic embedding-model selection.
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/LLM-151515?style=flat-square&labelColor=FF3B30"/>
+  <img src="https://img.shields.io/badge/RAG-151515?style=flat-square&labelColor=FF9F1C"/>
+  <img src="https://img.shields.io/badge/FAISS-151515?style=flat-square&labelColor=FF3B30"/>
+  <img src="https://img.shields.io/badge/EMBEDDING%20MODELS-151515?style=flat-square&labelColor=FF9F1C"/>
+  <img src="https://img.shields.io/badge/RAGAS-151515?style=flat-square&labelColor=FF3B30"/>
+
+</div>
+
+---
+
+## `03 // DIAGNOSEAI`
+
+<badge color="danger">MULTI-AGENT AI</badge> <badge color="warning">VOICE AI</badge>
+
+### Multi-Agent Medical Symptom Assessment System
+
+<sub>APRIL 2025 — SEPTEMBER 2025</sub>
+
+**What if a conversational AI could interpret symptoms and coordinate specialist-oriented agents?**
+
+DiagnoseAI is a voice-first medical symptom assessment system combining speech-to-text, NLP-based symptom routing and specialist LLM agents.
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/92%25-DETECTION%20ACCURACY-FF3B30?style=for-the-badge&labelColor=111111"/>
+  <img src="https://img.shields.io/badge/500-SIMULATED%20PATIENT%20SCENARIOS-FF9F1C?style=for-the-badge&labelColor=111111"/>
+
+</div>
+
+**Multi-agent workflow**
+
+```text
+       VOICE INPUT
+            |
+            v
+     SPEECH-TO-TEXT
+            |
+            v
+      NLP SYMPTOM
+       CLASSIFICATION
+            |
+            v
+      AGENT ROUTING
+            |
+       +----+----+
+       |    |    |
+       v    v    v
+   CARDIO  DERM  OTHER
+   AGENT   AGENT AGENTS
+       |    |    |
+       +----+----+
+            |
+            v
+     STRUCTURED REPORT
+```
+
+**System highlights**
+
+- Integrated speech-to-text and NLP-based symptom routing.
+- Developed specialist LLM agents, including cardiology and dermatology agents.
+- Implemented multi-agent orchestration using LangChain.
+- Enabled structured agent handoffs and consistent context management.
+- Achieved 92% disease detection accuracy across 500 simulated patient scenarios.
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/LANGCHAIN-151515?style=flat-square&labelColor=FF3B30"/>
+  <img src="https://img.shields.io/badge/LLM%20AGENTS-151515?style=flat-square&labelColor=FF9F1C"/>
+  <img src="https://img.shields.io/badge/SPEECH--TO--TEXT-151515?style=flat-square&labelColor=FF3B30"/>
+  <img src="https://img.shields.io/badge/NLP-151515?style=flat-square&labelColor=FF9F1C"/>
+
+</div>
+
+---
+
+<div align="center">
+
+  <h2>◈ RESEARCH & INTELLECTUAL PROPERTY ◈</h2>
+
+  <sub>
+    INVESTIGATING MODEL BEHAVIOUR, RETRIEVAL QUALITY AND AI RELIABILITY
+  </sub>
+
+</div>
+
+## `04 // NEARSYNONYMBENCH`
+
+<badge color="danger">ACL SUBMISSION</badge> <badge color="warning">LLM RESEARCH</badge>
+
+### Contextual Embedding Bias Predicts LLM Near-Synonym Confusion
+
+<sub>2026</sub>
+
+**Research question:** Does embedding similarity alone predict when language models confuse semantically related terms?
+
+Built **NEARSYNONYMBENCH**, a benchmark of 120 domain-specific near-synonym pairs across:
+
+- Medical terminology
+- Indian cultural heritage
+- Emergency blood resource management
+
+The study examined four sentence-transformer architectures and three LLM families.
+
+**Research findings**
+
+| Predictor | Finding |
+|---|---:|
+| Isolated embedding cosine similarity | Pearson r = −0.005 |
+| Contextual embedding bias | ρ = 0.299 |
+| Statistical significance | p less than 0.001 |
+| Relative variance explained | 45.3× more |
+
+The results indicate that contextual embedding bias is a more informative predictor of LLM near-synonym confusion than isolated cosine similarity in the evaluated setting.
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/BENCHMARK-120%20TERM%20PAIRS-FF3B30?style=for-the-badge&labelColor=111111"/>
+  <img src="https://img.shields.io/badge/LLM%20FAMILIES-03-FF9F1C?style=for-the-badge&labelColor=111111"/>
+  <img src="https://img.shields.io/badge/ARCHITECTURES-04-FF3B30?style=for-the-badge&labelColor=111111"/>
+
+</div>
+
+---
+
+## `05 // DOMAIN-SPECIFIC RAG EVALUATION`
+
+<badge color="danger">SPRINGER NATURE</badge> <badge color="warning">SN COMPUTER SCIENCE</badge>
+
+### Embedding Model Selection for Domain-Specific RAG
+
+<sub>2026 · SN COMPUTER SCIENCE</sub>
+
+A systematic evaluation of embedding-model selection for retrieval-augmented generation using an Indian cultural heritage corpus.
+
+**Models investigated**
+
+- MiniLM
+- MPNet
+- Multilingual MiniLM
+
+**Evaluation dimensions**
+
+- RAGAS faithfulness
+- Factual correctness
+
+The work examines how embedding-model choice affects retrieval-grounded response quality in a domain-specific setting.
+
+---
+
+## `06 // PATENTED INTELLECTUAL PROPERTY`
+
+<badge color="success">PATENT APPLICATION FILED</badge>
+
+### AI-Driven Conversational Medical Voice Assistant
+
+<sub>INDIAN PATENT APPLICATION · MARCH 2026</sub>
+
+<box border radius="lg" padding={3} gap={2}>
+  <row align="center" justify="between">
+    **INTELLECTUAL PROPERTY RECORD**
+    <badge color="success">FILED</badge>
+  </row>
+  <title size="2xl" color="default" tabularNums>202611012869</title>
+  <text color="secondary" size="xs">INDIAN PATENT APPLICATION NUMBER</text>
+  <divider color="subtle"/>
+  A multi-agent conversational system designed to route patient symptom inputs to specialist agents using NLP-based intent classification and semantic parsing.
+  <divider color="subtle"/>
+  **Evaluation:** 500 simulated patient scenarios
+
+  **Reported accuracy:** 92% disease detection accuracy
+</box>
+
+---
+
+<div align="center">
+
+  <h2>◈ THE RESEARCH MINDSET ◈</h2>
+
+  <p>
+    I am interested in the questions behind the technology:
+    <br/><br/>
+    <b>Why does a model make a prediction?</b>
+    <br/>
+    <b>When does retrieval become unreliable?</b>
+    <br/>
+    <b>How can intelligent systems be evaluated more rigorously?</b>
+  </p>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/BUILD-FF3B30?style=for-the-badge&labelColor=111111"/>
+  <img src="https://img.shields.io/badge/INVESTIGATE-FF9F1C?style=for-the-badge&labelColor=111111"/>
+  <img src="https://img.shields.io/badge/ENGINEER-F2F2F2?style=for-the-badge&labelColor=111111"/>
+
+  <br/><br/>
+
+  <h2>END OF TRANSMISSION.</h2>
+
+  <sub>
+    PRIYANKA ASTHANA // AI/ML ENGINEER & RESEARCHER
+    <br/>
+    CORPORATE ENGINEERING DIVISION
+    <br/>
+    PROJECT VAULT // 04
+  </sub>
+
+  <br/><br/>
+
+  <a href="https://github.com/PriyankaAsthana">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-151515?style=for-the-badge&logo=github&logoColor=FF3B30"/>
+  </a>
+
+</div>
+
+<!-- ========================================================= -->
+<!-- END PART 04                                               -->
+<!-- END OF README                                             -->
+<!-- ========================================================= -->
+
+
