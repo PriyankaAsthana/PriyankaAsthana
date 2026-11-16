@@ -330,19 +330,6 @@ I am particularly interested in how intelligent systems retrieve information, in
 
 ---
 
-<div align="center">
-
-  <img src="https://img.shields.io/badge/PERSONNEL%20RECORD-02%20%2F%2F%20COMPLETE-FF3B30?style=for-the-badge&labelColor=111111"/>
-
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/PROFILE-ENGINEERING%20%2B%20RESEARCH-FF9F1C?style=flat-square&labelColor=111111"/>
-  <img src="https://img.shields.io/badge/NEXT%20MODULE-TECH%20ARSENAL-FF3B30?style=flat-square&labelColor=111111"/>
-
-  <br/><br/>
-
-</div>
-
 <!-- ========================================================= -->
 <!-- END PART 02                                               -->
 <!-- NEXT: PART 03 | TECH ARSENAL                              -->
