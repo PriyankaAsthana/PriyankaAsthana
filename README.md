@@ -6,11 +6,17 @@
 
 <div align="center">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:090909,45:251010,75:7A1712,100:FF3B30&height=220&section=header&text=PRIYANKA%20ASTHANA&fontSize=43&fontColor=F2F2F2&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%26%20RESEARCHER&descSize=19&descAlignY=62&animation=twinkling"
-    width="100%"
-    alt="Priyanka Asthana — AI/ML Engineer and Researcher"
-  />
+  
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:090909,100:FF3B30&height=230&section=header&text=PRIYANKA%20ASTHANA&fontSize=43&fontColor=F2F2F2&desc=AI%2FML%20ENGINEER%20AND%20RESEARCHER&descSize=18&animation=fadeIn"
+  width="100%"
+  alt="Priyanka Asthana — AI/ML Engineer and Researcher"
+/>
+
+</div>
+
 
   <br/>
 
