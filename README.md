@@ -673,14 +673,6 @@ The work examines how embedding-model choice affects retrieval-grounded response
 
   <h2>END OF TRANSMISSION.</h2>
 
-  <sub>
-    PRIYANKA ASTHANA // AI/ML ENGINEER & RESEARCHER
-    <br/>
-    CORPORATE ENGINEERING DIVISION
-    <br/>
-    PROJECT VAULT // 04
-  </sub>
-
   <br/><br/>
 
   <a href="https://github.com/PriyankaAsthana">
