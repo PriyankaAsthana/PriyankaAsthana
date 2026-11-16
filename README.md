@@ -78,8 +78,6 @@
 
   <br/>
 
-  <sub>ENGINEERING DIVISION // PERSONNEL RECORD 001</sub>
-
 </div>
 
 <!-- ========================================================= -->
@@ -342,14 +340,6 @@ I am particularly interested in how intelligent systems retrieve information, in
   <img src="https://img.shields.io/badge/NEXT%20MODULE-TECH%20ARSENAL-FF3B30?style=flat-square&labelColor=111111"/>
 
   <br/><br/>
-
-  <sub>
-    CORPORATE ENGINEERING DIVISION
-    <br/>
-    PERSONNEL FILE // 02
-    <br/>
-    END OF RECORD
-  </sub>
 
 </div>
 
